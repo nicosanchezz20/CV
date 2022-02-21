@@ -1,0 +1,10 @@
+body .main .articles ul {list-style:none;
+    color:white;
+    font-size:120%;
+    }
+
+body .main .articles ul li {padding:.5%}
+
+
+header nav ul li .edu {background:GREY;
+border: 1px solid rgb(255, 0, 0)}
